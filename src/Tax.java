@@ -1,2 +1,4 @@
-public class Tax {
+public interface Tax {
+
+    public double computeTax();
 }
