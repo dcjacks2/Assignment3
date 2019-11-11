@@ -1,2 +1,3 @@
-public class Discount {
+public interface Discount {
+    public double computeTax();
 }
