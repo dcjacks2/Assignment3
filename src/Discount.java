@@ -1,3 +1,3 @@
 public interface Discount {
-    public double computeTax();
+    public double computeDiscount();
 }
